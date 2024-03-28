@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-poppins: Poppins;
+    --font-montserrat: Montserrat;
+  
+    /* font sizes */
+    --font-size-5xl: 24px;
+  
+    /* Paddings */
+    --padding-18xl: 37px;
+    --padding-5xl: 24px;
+  
+    /* Border radiuses */
+    --br-xl: 20px;
+  }
+  
